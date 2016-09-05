@@ -1,6 +1,7 @@
 # Power Plan Changer
 
 Permite cambiar el plan de energía de tu sistema con un click en un icono en el escritorio.*
+
 Allows you to change the power plan your system with a click on an icon on the desktop.*
 
 *Basado en un script de PowerShell/Based on PowerShell script.
@@ -8,6 +9,7 @@ Allows you to change the power plan your system with a click on an icon on the d
 ## Uso/Usage
 
 Instalar, hacer click en el icono, disfrutar :D
+
 Install, click the icon, enjoy :D
 
 
